@@ -1,0 +1,4 @@
+{"task_name":"to have lunch","deadline":"2026-10-15T09:57","category":"personal"}
+{"task_name":"had breakfast","deadline":"2026-10-15T09:57","category":"personal"}
+{"task_name":"to have dinner","deadline":"2026-10-15T09:57","category":"personal"}
+{"task_name":"playing","deadline":"2026-10-15T09:57","category":"fun"}
